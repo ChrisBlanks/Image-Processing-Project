@@ -6,6 +6,7 @@
         - Josh Orebiyi
         - Adric Turner
         - Ryan Valente
+    Dependencies: Image Processing Toolbox
 %}
 
 
